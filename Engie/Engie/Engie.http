@@ -1,0 +1,6 @@
+@Engie_HostAddress = http://localhost:5196
+
+GET {{Engie_HostAddress}}/productionplan/
+Accept: application/json
+
+###

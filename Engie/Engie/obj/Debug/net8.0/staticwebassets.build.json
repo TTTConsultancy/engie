@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "5/IoBMhLSFXbju1wzXda4qjvhbZ4X15gVyYXQHlxB2w=",
+  "Source": "Engie",
+  "BasePath": "_content/Engie",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Engie\\wwwroot",
+      "Source": "Engie",
+      "ContentRoot": "C:\\Users\\TrystanThomasTTTCons\\source\\repos\\Engie\\Engie\\wwwroot\\",
+      "BasePath": "_content/Engie",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\TrystanThomasTTTCons\\source\\repos\\Engie\\Engie\\wwwroot\\request.json",
+      "SourceId": "Engie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TrystanThomasTTTCons\\source\\repos\\Engie\\Engie\\wwwroot\\",
+      "BasePath": "_content/Engie",
+      "RelativePath": "request.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\request.json"
+    }
+  ]
+}

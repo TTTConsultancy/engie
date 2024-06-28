@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\TrystanThomasTTTCons\\source\\repos\\Engie\\Engie\\wwwroot\\request.json",
+      "PackagePath": "staticwebassets\\request.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Engie.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Engie.props",
+      "PackagePath": "build\\Engie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Engie.props",
+      "PackagePath": "buildMultiTargeting\\Engie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Engie.props",
+      "PackagePath": "buildTransitive\\Engie.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
